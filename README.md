@@ -1,6 +1,6 @@
 # Building a Simplified Blockchain 
 *(English Version)* 
-### Implementation of a simple Blockchain in Python with proof-of-work, consensus algorithm, and Flask API in order to studying how Blockchains work.
+### Implementation of a simple Blockchain in Python with proof-of-work, consensus algorithm, and Flask API in order to study how Blockchains work.
 
 ##
 
