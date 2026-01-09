@@ -14,7 +14,7 @@ To run and test this application, the following tools are required:
 ### Features
 This project simulates the core mechanics of a blockchain:
 * **Block Structure:** 
-```json
+```python
 block = {
     'index': ..., #block height
     'timestamp': ..., #creation time of the block
@@ -69,7 +69,7 @@ Para rodar e testar esta aplicação, são necessárias as seguintes ferramentas
 ### Funcionalidades Implementadas:
 Esse projeto simula a mecânica central de uma blockchain:
 * **Estrutura dos Blocos:** 
-```json
+```python
 block = {
     'index': ..., #altura do bloco
     'timestamp': ..., #momento de criação do bloco
